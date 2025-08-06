@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffc2d1;
+  padding: 15px;
+}
+
+.logo {
+  display: flex;
+  gap: 8px;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  
+}
+
+.logo h1 {
+  color: #ff006e;
+}
+
+.link-items {
+  display: flex;
+  gap: 25px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #ff006e;
+  
+}
