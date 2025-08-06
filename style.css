@@ -3,6 +3,8 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
+/* Header styling */
+
 .header {
   display: flex;
   align-items: center;
@@ -40,4 +42,30 @@ a {
   font-size: 18px;
   color: #ff006e;
   
+}
+
+button{
+    color: #ffffff;
+    font-weight: bold;
+    padding: 12px 20px;
+    background-color: #ff006e;
+    border: none;
+    border-radius: 15px;
+}
+
+/* Hero section */
+
+.hero-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 24px;
+}
+
+.hero-text h2{
+    font-size: 42px;
+}
+
+.hero-section p{
+    font-size: 18px;
+    width: 450px;
 }
