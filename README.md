@@ -64,17 +64,17 @@ You are encouraged to:
 
 ## 📷 Design & Assets
 
-- Design Mockup | [Link Text](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) |
-- Color| [Link Text](https://coolors.co/palettes/trending)|
-- Logo icon | [Link Text](https://www.flaticon.com/free-icon/ice-cream-cup_3427014) |
-- Chocolate ice cream image | [Link Text](https://za.pinterest.com/pin/56435801576793195/) |
-- Strawberry ice cream image | [Link Text](https://za.pinterest.com/pin/75505731278607513/) |
-- Vanilla ice cream image | [Link Text](https://gr.pinterest.com/pin/673358581824922729/) |
-- Mint ice cream image | [Link Text](https://za.pinterest.com/pin/138626494775352140/) |
-- Final Screenshot | [Link Text](/project-screenshot.png) |
+- Design Mockup | [Mockup](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) |
+- Color| [Coolors](https://coolors.co/palettes/trending)|
+- Logo icon | [Flaticon](https://www.flaticon.com/free-icon/ice-cream-cup_3427014) |
+- Chocolate ice cream image | [Pinterest](https://za.pinterest.com/pin/56435801576793195/) |
+- Strawberry ice cream image | [Pinterest](https://za.pinterest.com/pin/75505731278607513/) |
+- Vanilla ice cream image | [Pinterest](https://gr.pinterest.com/pin/673358581824922729/) |
+- Mint ice cream image | [Pinterest](https://za.pinterest.com/pin/138626494775352140/) |
+- Final Screenshot | [My project](/project-screenshot.png) |
 
 ---
 
 ## 🚀 How to View the Live Site
 
-[Link Text](https://princessletlhake.github.io/Frosty-Frenzy/)
+[Frosty Frenzy website](https://princessletlhake.github.io/Frosty-Frenzy/)
